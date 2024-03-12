@@ -1,6 +1,6 @@
 ** The project continues but we no longer feed this repository ** 
 
-This is the first structure made. 
+This is the first structure made with 3 months of work. 
 
 PROJECT STRUCTURE
 
